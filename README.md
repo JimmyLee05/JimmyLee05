@@ -1,6 +1,6 @@
 ### 技术栈：
 
-**Flutter**, **Golang**, **Swift**  
+**Flutter** + **Golang** + **Swift**  
   
 ### 我的项目：
   
