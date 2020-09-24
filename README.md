@@ -4,7 +4,7 @@
   
   
 :bowtie: 我的项目：[码客南君 - 独立开发成长之路](http://www.linanjun.cn/)  
-:sunglasses: 移动端App [苹果商店下载](https://apps.apple.com/cn/app/码客南君-全栈编程学习入门/id1517749296)
+:sunglasses: 移动端App: [苹果商店](https://apps.apple.com/cn/app/码客南君-全栈编程学习入门/id1517749296) [小米商店](http://app.mi.com/details?id=com.nanjun.marknanjun) [华为商店](https://appgallery.huawei.com/#/app/C102478513?locale=zh_CN&source=appshare&subsource=C102478513&shareTo=weixin&shareFrom=appmarket) 
 
 <!--
 **JimmyLee05/JimmyLee05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
