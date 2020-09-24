@@ -1,4 +1,9 @@
-### Hi there 👋
+## 哈喽
+
+:+1: 技术栈：**Flutter**,**Golang**,**Swift**  
+  
+  
+:beer: 我的项目：[码客南君 - 独立开发成长之路](http://www.linanjun.cn/)  
 
 <!--
 **JimmyLee05/JimmyLee05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
