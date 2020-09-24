@@ -1,6 +1,6 @@
-### 码客南君
+### 技术栈 :key:
 
-:+1: 技术栈：**Flutter**,**Golang**,**Swift**  
+**Flutter**,**Golang**,**Swift**  
   
 ### 我的项目 :bowtie:
   
